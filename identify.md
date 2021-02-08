@@ -1,9 +1,13 @@
-Learning goals:
+# Identify performance issues in your react applications.
+
+## Learning goals:
 
 - Identify performance issues.
 - Use chrome dev tools to find expensive tasks.
 - Use React dev tools to identify re-renders.
 - Understand how React updates the DOM.
+
+## Intro
 
 As you may notice during the Bootcamp, modern front-end development has increased its complexity over the years. We passed from plain CSS, HTML, and JS to view engines like HBS, and we ended up working with a complex structure of tools to bundle our different pieces of code: Webpack, Babel, plugins, css-in-js, and more. .. This complexity isn't something bad, it's useful to deliver better software when we know how everything works; if not... it can be painful.
 
